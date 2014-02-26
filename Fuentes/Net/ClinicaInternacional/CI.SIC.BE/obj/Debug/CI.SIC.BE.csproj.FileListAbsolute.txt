@@ -1,0 +1,14 @@
+C:\Users\osmos2\Desktop\WAUCI_CQ\CI.SIC.BE\bin\Debug\CI.SIC.BE.dll
+C:\Users\osmos2\Desktop\WAUCI_CQ\CI.SIC.BE\bin\Debug\CI.SIC.BE.pdb
+C:\Users\osmos2\Desktop\WAUCI_CQ\CI.SIC.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\osmos2\Desktop\WAUCI_CQ\CI.SIC.BE\obj\Debug\CI.SIC.BE.dll
+C:\Users\osmos2\Desktop\WAUCI_CQ\CI.SIC.BE\obj\Debug\CI.SIC.BE.pdb
+E:\WAUCI_CQ\CI.SIC.BE\bin\Debug\CI.SIC.BE.dll
+E:\WAUCI_CQ\CI.SIC.BE\bin\Debug\CI.SIC.BE.pdb
+E:\WAUCI_CQ\CI.SIC.BE\obj\Debug\ResolveAssemblyReference.cache
+E:\WAUCI_CQ\CI.SIC.BE\obj\Debug\CI.SIC.BE.dll
+E:\WAUCI_CQ\CI.SIC.BE\obj\Debug\CI.SIC.BE.pdb
+D:\UPC\11vo\TP3\Proyecto\Codigo\ClinicaInternacional\UPC-TP3.git\Fuentes\Net\ClinicaInternacional\CI.SIC.BE\bin\Debug\CI.SIC.BE.dll
+D:\UPC\11vo\TP3\Proyecto\Codigo\ClinicaInternacional\UPC-TP3.git\Fuentes\Net\ClinicaInternacional\CI.SIC.BE\bin\Debug\CI.SIC.BE.pdb
+D:\UPC\11vo\TP3\Proyecto\Codigo\ClinicaInternacional\UPC-TP3.git\Fuentes\Net\ClinicaInternacional\CI.SIC.BE\obj\Debug\CI.SIC.BE.dll
+D:\UPC\11vo\TP3\Proyecto\Codigo\ClinicaInternacional\UPC-TP3.git\Fuentes\Net\ClinicaInternacional\CI.SIC.BE\obj\Debug\CI.SIC.BE.pdb
